@@ -6,6 +6,8 @@
 
 - <b>Python:</b> [Playstore exploratory data analysis](https://github.com/Vartikaarora115/Play-Store-App-Review-Analysis-EDA-)
 
+- <b>SQL:</B> [Instagram clone](https://github.com/Vartikaarora115/Instagram-clone-project)
+
 - <b>Power BI:</b> [Zomato restaurant analysis](https://github.com/Vartikaarora115/Zomato-Restaurant-Analysis-Bussiness-analytics-using-Power-BI-) , [E-commerce Business dashboard](https://github.com/Vartikaarora115/Bussiness-analytics-dashboard-usingPower-Bi), [HR Analytics](https://github.com/Vartikaarora115/HR-analytics-dashboard-using-Power-BI/tree/main)
 
 - <b>Excel:</b> [E-commerce Business dashboard](https://github.com/Vartikaarora115/Sales-data-MIS-Report)
