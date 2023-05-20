@@ -12,7 +12,7 @@
 
 - <b>Excel:</b> [E-commerce Business dashboard](https://github.com/Vartikaarora115/Sales-data-MIS-Report)
 
-- <b>Machine Learning:</b> [Bike sharing demand prediction](https://github.com/Vartikaarora115/Play-Store-App-Review-Analysis-EDA-), [Health insurance cross sell prediction](https://github.com/Vartikaarora115/Health-insurance-cross-sell-prediction), [Book recommendation system](https://github.com/Vartikaarora115/Book_Recommendation_System), [Customer lead scoring](https://github.com/Vartikaarora115/Lead-Scoring-Model-Logistic-Regression)
+- <b>Machine Learning:</b> [Bike sharing demand prediction](https://github.com/Vartikaarora115/Bike-sharing-demand-prediction), [Health insurance cross sell prediction](https://github.com/Vartikaarora115/Health-insurance-cross-sell-prediction), [Book recommendation system](https://github.com/Vartikaarora115/Book_Recommendation_System), [Customer segmentation](https://github.com/Vartikaarora115/Lead-Scoring-Model-Logistic-Regression)
  
 
 <h3 align="left">Connect with me:</h3>
